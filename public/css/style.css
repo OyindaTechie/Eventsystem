@@ -1,0 +1,43 @@
+.headercap{
+	padding: 20px;
+	background-color: #73AD21; 
+}
+#header{
+	dwidth: auto;
+	height: 500px;
+}
+
+.search1{
+	float: left;
+	border-radius: 25px;
+    background: #ffffff;
+    padding: 20px;
+    width: 200px;
+    height: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.eventlisting{
+	
+    background: #ffffff;
+    padding: 20px;
+    width: 350px;
+    dheight: 400px;
+    float: left;
+	
+    
+}
+.search1:hover{
+	background-color: #001634;
+	color: #ffffff;
+}
+
+.searchcat{
+	background-color: #73AD21;
+	width: auto;
+	height: 130px;
+   
+    
+}
